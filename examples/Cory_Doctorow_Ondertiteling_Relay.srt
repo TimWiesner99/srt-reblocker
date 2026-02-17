@@ -1,0 +1,1420 @@
+﻿1
+00:00:00,120 --> 00:00:02,960
+Als je mensen
+een beetje laat schelden...
+
+2
+00:00:03,080 --> 00:00:08,320
+...kun je een zeer complexe
+socio-technische kritiek koppelen...
+
+3
+00:00:08,440 --> 00:00:13,320
+...aan een grappig vies woord.
+En dan letten de mensen op.
+
+4
+00:00:13,440 --> 00:00:15,560
+Vandaar 'enshittification.'
+
+5
+00:00:31,200 --> 00:00:34,840
+Ik was Europees directeur
+van de Electronic Frontier Foundation.
+
+6
+00:00:34,960 --> 00:00:38,120
+Dan spreek je
+op veel congressen en zo.
+
+7
+00:00:38,240 --> 00:00:42,480
+Ik ben mijn pasjes gaan verzamelen.
+Ik heb er nu heel wat.
+
+8
+00:00:54,680 --> 00:01:00,240
+We zien enshittification opkomen
+in elke sector die digitaal wordt.
+
+9
+00:01:00,360 --> 00:01:04,200
+Als er computers bij komen,
+komt er enshittification bij.
+
+10
+00:01:22,600 --> 00:01:27,080
+Laten we het in meerdere delen doen.
+In één keer is te lang.
+
+11
+00:01:27,200 --> 00:01:29,040
+Take 1.
+- Perfect.
+
+12
+00:01:29,160 --> 00:01:34,840
+Ik vertel hoe platforms de fout in gaan.
+De symptomen, als dit een pandemie is.
+
+13
+00:01:34,960 --> 00:01:38,680
+Je hebt platforms die goed zijn
+voor hun eindgebruikers.
+
+14
+00:01:38,800 --> 00:01:42,320
+En al doende leren ze
+die eindgebruikers vast te houden.
+
+15
+00:01:42,440 --> 00:01:44,320
+Neem bijvoorbeeld Facebook.
+
+16
+00:01:44,440 --> 00:01:47,200
+Hallo, allemaal.
+
+17
+00:01:47,320 --> 00:01:51,040
+Toen Facebook voor iedereen
+toegankelijk werd, in 2006...
+
+18
+00:01:51,160 --> 00:01:53,440
+...werd het aangeprezen als:
+
+19
+00:01:53,560 --> 00:01:57,840
+Wij zijn net MySpace, maar we zullen
+je privacy nooit schenden.
+
+20
+00:01:57,960 --> 00:02:01,560
+En we laten je alleen zien
+waar je om vraagt.
+
+21
+00:02:01,680 --> 00:02:06,680
+Vertel Facebook wat voor jou
+belangrijk is. Meer ga je niet zien.
+
+22
+00:02:06,800 --> 00:02:09,720
+En niemand bespioneert je intussen.
+
+23
+00:02:09,840 --> 00:02:14,080
+Ze leerden hun gebruikers
+vast te houden. En Facebook bofte...
+
+24
+00:02:14,200 --> 00:02:16,200
+...want bij sociale media kost dat niks.
+
+25
+00:02:16,320 --> 00:02:21,280
+Stel, je hebt 200 FB-vrienden.
+Sommigen komen uit een ander land.
+
+26
+00:02:21,400 --> 00:02:24,280
+Zo houden ze contact
+met het thuisfront.
+
+27
+00:02:24,400 --> 00:02:28,800
+Anderen hebben kinderen die sporten
+en zo regelen ze de carpool.
+
+28
+00:02:28,920 --> 00:02:33,160
+Weer anderen hebben daar
+hun klanten of hun publiek.
+
+29
+00:02:33,280 --> 00:02:37,880
+Weer anderen hebben een zeldzame
+ziekte en vinden daar lotgenoten.
+
+30
+00:02:38,000 --> 00:02:42,880
+Dus hoe meer FB-gebruikers,
+hoe lastiger het wordt om af te haken.
+
+31
+00:02:43,000 --> 00:02:48,920
+Dan gaat Fase 1, waarin je goed bent
+voor de eindgebruikers, over in Fase 2.
+
+32
+00:02:49,040 --> 00:02:51,280
+Dan ga je misbruik maken
+van de eindgebruikers...
+
+33
+00:02:51,400 --> 00:02:56,520
+...wetend dat ze zullen blijven,
+zelfs als je het minder goed maakt...
+
+34
+00:02:56,640 --> 00:02:59,600
+...om zakelijke klanten
+beter te kunnen bedienen.
+
+35
+00:02:59,720 --> 00:03:05,200
+Facebook ging naar de adverteerders:
+'We hebben die sukkels verteld...
+
+36
+00:03:05,320 --> 00:03:08,080
+...dat we ze niet bespioneerden.
+Dat was gelogen.
+
+37
+00:03:08,200 --> 00:03:10,600
+We bespioneren ze van voor tot achter.
+
+38
+00:03:10,720 --> 00:03:14,760
+Geen ons een grijpstuiver, dan sturen we
+ze exact de juiste reclame.
+
+39
+00:03:14,880 --> 00:03:18,520
+We hebben talloze techneuten
+die reclamefraude opsporen.
+
+40
+00:03:18,640 --> 00:03:23,480
+Geef ons een reclamedollar,
+dan komt alles goed aan.'
+
+41
+00:03:23,600 --> 00:03:27,880
+Dus zo leren ze ook de zakelijke klant
+vast te houden.
+
+42
+00:03:28,000 --> 00:03:30,840
+Want die wordt afhankelijk
+van die omzet.
+
+43
+00:03:30,960 --> 00:03:34,440
+Dat is Fase 3 van de verkuttificatie.
+
+44
+00:03:34,560 --> 00:03:38,000
+Het teruggraaien van waarde van
+zakelijke klanten en eindgebruikers...
+
+45
+00:03:38,120 --> 00:03:42,200
+...tot er net genoeg waarde
+overblijft...
+
+46
+00:03:42,320 --> 00:03:46,480
+...om gebruikers aan elkaar te koppelen
+en zakelijke klanten aan die gebruikers.
+
+47
+00:03:46,600 --> 00:03:50,000
+En alle waarde gaat dan naar
+aandeelhouders en CEO's.
+
+48
+00:03:50,120 --> 00:03:54,000
+Dan kan het platform
+elk moment instorten.
+
+49
+00:03:54,120 --> 00:03:58,280
+Want het verschil tussen 'ik haat
+Facebook, maar ik kan niet weg'...
+
+50
+00:03:58,400 --> 00:04:02,400
+...en 'ik haat Facebook, ik kom
+nooit meer terug' is minimaal.
+
+51
+00:04:02,520 --> 00:04:07,560
+Dus één gestreamde schietpartij,
+één schandaal, één klokkenluider...
+
+52
+00:04:07,680 --> 00:04:10,680
+...en iedereen is weg
+en Wall Street flipt.
+
+53
+00:04:10,800 --> 00:04:16,960
+Want daar waarderen ze Facebook
+op 20 keer de jaarwinst.
+
+54
+00:04:17,080 --> 00:04:20,040
+Maar als het aandeel Facebook
+niet meer groeit...
+
+55
+00:04:20,160 --> 00:04:22,840
+...is het 4 maal de jaarwinst waard.
+
+56
+00:04:22,960 --> 00:04:27,320
+Dus zodra de groei afneemt,
+gaan mensen massaal verkopen.
+
+57
+00:04:27,440 --> 00:04:31,640
+En als Silicon Valley flipt,
+maken ze een zogeheten draai.
+
+58
+00:04:31,760 --> 00:04:33,640
+Elders heet dat paniekvoetbal.
+
+59
+00:04:33,760 --> 00:04:39,720
+Bij Facebook was de draai dat
+Zuckerberg opstond uit zijn sarcofaag...
+
+60
+00:04:39,840 --> 00:04:43,320
+...en zei: Ik heb een visioen gehad.
+Ik heb gezegd...
+
+61
+00:04:43,440 --> 00:04:47,800
+...dat je kon ruziën met je racistische
+oom via een primitieve tekstinterface...
+
+62
+00:04:47,920 --> 00:04:52,720
+...die ik als student heb bedacht om de
+neukbaarheid van studenten te ranken.
+
+63
+00:04:52,840 --> 00:04:56,960
+Maar het wordt anders. Ik ga jou
+en je dierbaren veranderen...
+
+64
+00:04:57,080 --> 00:05:00,160
+...in een levenloos, seksloos
+cartoonfiguur.
+
+65
+00:05:00,280 --> 00:05:03,400
+Ik sluit je op in een metaversum
+dat ik heb gejat...
+
+66
+00:05:03,520 --> 00:05:06,080
+...uit een dystopisch cyberpunkboek.
+
+67
+00:05:06,200 --> 00:05:08,280
+En dat is mooi kut.
+
+68
+00:05:08,400 --> 00:05:11,840
+Dat is verkuttificatie,
+een tragedie in drie akten.
+
+69
+00:05:28,800 --> 00:05:33,240
+Om te snappen wat er met Google
+is gebeurd, moet je begrijpen...
+
+70
+00:05:33,360 --> 00:05:36,400
+...hoe de epidemiologie
+van verkuttificatie werkt.
+
+71
+00:05:36,520 --> 00:05:38,440
+Waarom dit juist nu gebeurt.
+
+72
+00:05:38,560 --> 00:05:44,160
+Toen Google begon, had het te maken
+met vier soorten regelgeving...
+
+73
+00:05:44,280 --> 00:05:47,760
+...voor als het de gebruiker
+slecht behandelde:
+
+74
+00:05:47,880 --> 00:05:51,080
+Nummer 1, concurrentie.
+Toen Google begon...
+
+75
+00:05:51,200 --> 00:05:55,320
+...zag ik ze op vier, vijf congressen
+steeds hetzelfde zeggen:
+
+76
+00:05:55,440 --> 00:05:57,720
+Concurrentie ligt één klik verderop.
+
+77
+00:05:57,840 --> 00:06:00,760
+Want er waren
+veel zoekmachines online.
+
+78
+00:06:00,880 --> 00:06:05,600
+Dus wij kozen Google, want
+concurrentie lag één klik verderop.
+
+79
+00:06:05,720 --> 00:06:10,680
+Maar nu bestaat Google 20 jaar
+en zien we het fenomeen...
+
+80
+00:06:10,800 --> 00:06:15,160
+...dat de antitrustwetgeving faalt.
+
+81
+00:06:15,280 --> 00:06:19,880
+Google mocht veel van
+zijn grote concurrenten opkopen.
+
+82
+00:06:20,000 --> 00:06:25,160
+Nu kan Google geen product
+meer maken dat men wil gebruiken.
+
+83
+00:06:25,280 --> 00:06:28,400
+Ze maakten één goede zoekmachine,
+25 jaar geleden.
+
+84
+00:06:28,520 --> 00:06:33,040
+En bijna alle andere producten
+die ze ontwikkelden, zijn mislukt.
+
+85
+00:06:33,160 --> 00:06:38,080
+En bijna al hun successen
+zijn bedrijven die ze hebben gekocht...
+
+86
+00:06:38,200 --> 00:06:41,960
+...in weerwil van de anti-monopoliewetgeving.
+
+87
+00:06:42,080 --> 00:06:45,680
+Dus Android,
+alles van Ad Tech...
+
+88
+00:06:45,800 --> 00:06:50,800
+...klantenservice, Docs, Maps, Satellite,
+al die dingen.
+
+89
+00:06:50,920 --> 00:06:52,880
+Allemaal van anderen gekocht.
+
+90
+00:06:53,000 --> 00:06:57,360
+Ze zijn geen Willy Wonka, maar een
+geldmachine die de concurrentie opkoopt.
+
+91
+00:06:57,480 --> 00:07:01,040
+Google werd te groot om
+om de klant te geven.
+
+92
+00:07:01,160 --> 00:07:04,320
+Je kunt precies zien
+wanneer dat gebeurde, in 2019.
+
+93
+00:07:04,440 --> 00:07:09,160
+Er kwam een reeks memo's uit
+in een van de drie rechtszaken...
+
+94
+00:07:09,280 --> 00:07:13,360
+...die Google dit jaar verloor in de VS.
+Driemaal veroordeeld als monopolist.
+
+95
+00:07:13,480 --> 00:07:16,800
+In 2019 stagneerde
+de groei van Google.
+
+96
+00:07:16,920 --> 00:07:19,640
+Hun marktaandeel in zoekmachines
+was 90 procent.
+
+97
+00:07:19,760 --> 00:07:22,880
+Met 90 procent
+kun je niet verder groeien.
+
+98
+00:07:23,000 --> 00:07:26,320
+Wie zoekt er nog niet op Google?
+
+99
+00:07:26,440 --> 00:07:30,800
+Oké, je kunt een miljard mensen
+grootbrengen tot Googleklanten.
+
+100
+00:07:30,920 --> 00:07:32,520
+Dat doet Google Classroom.
+
+101
+00:07:32,640 --> 00:07:36,760
+Maar dat duurt 18 jaar
+en intussen moet je toch groeien.
+
+102
+00:07:36,880 --> 00:07:41,000
+Dus in die memo's die uitkwamen,
+zien we een enorme botsing...
+
+103
+00:07:41,120 --> 00:07:42,880
+...tussen twee groepen Googlers.
+
+104
+00:07:43,000 --> 00:07:46,800
+Een zekere Prabhakar Raghavan
+had een idee:
+
+105
+00:07:46,920 --> 00:07:52,000
+We kunnen mensen niet vaker
+laten zoeken naar meer dingen.
+
+106
+00:07:52,120 --> 00:07:55,800
+Ze zoeken al alles wat in ze opkomt
+via een zoekvenster.
+
+107
+00:07:55,920 --> 00:07:59,720
+We krijgen niet meer mensen aan
+het zoeken, we zitten op 90 procent.
+
+108
+00:07:59,840 --> 00:08:04,960
+Maar het kan slechter,
+zodat ze het vaker moeten proberen.
+
+109
+00:08:05,080 --> 00:08:11,360
+Dus als je nu 'broek' intypt,
+zoeken we tegelijk op 'pantalon'...
+
+110
+00:08:11,480 --> 00:08:15,520
+...want je zoekt vast allebei.
+Maar dat doen we niet meer.
+
+111
+00:08:15,640 --> 00:08:18,240
+En we corrigeren geen tikfouten meer.
+
+112
+00:08:18,360 --> 00:08:23,120
+We hebben veel trucjes bedacht
+waardoor het zoeken beter werd.
+
+113
+00:08:23,240 --> 00:08:24,800
+Die schaffen we nu af.
+
+114
+00:08:24,920 --> 00:08:27,360
+Dan moet je twee, drie,
+vier keer zoeken.
+
+115
+00:08:27,480 --> 00:08:30,200
+En elke keer laten wij advertenties zien.
+
+116
+00:08:30,320 --> 00:08:37,000
+In feite zegt de groep van Raghavan:
+Zo verliezen we geen gebruikers.
+
+117
+00:08:37,120 --> 00:08:40,160
+We hebben 25 miljard dollar
+per jaar besteed...
+
+118
+00:08:40,280 --> 00:08:46,360
+...om elk zoekvenster op elk systeem
+en elke browser te kopen.
+
+119
+00:08:46,480 --> 00:08:51,800
+Of je nu Firefox gebruikt, Vodafone,
+Android of IOS.
+
+120
+00:08:51,920 --> 00:08:54,360
+Je zoekvenster is van Google.
+
+121
+00:08:54,480 --> 00:08:57,480
+Mensen gaan echt niet weg
+als we de zoekmachine slechter maken.
+
+122
+00:08:57,600 --> 00:09:01,240
+Dus dat moeten we doen,
+want dan verdienen we meer.
+
+123
+00:09:01,360 --> 00:09:04,960
+En uiteindelijk
+hebben zij het pleit gewonnen.
+
+124
+00:09:05,080 --> 00:09:09,920
+Er zaten altijd al hebberds bij Google.
+Ik ken ze.
+
+125
+00:09:10,040 --> 00:09:13,720
+Er zitten daar mensen
+die ik het licht in de ogen niet gun.
+
+126
+00:09:13,840 --> 00:09:17,720
+Maar die mensen
+hebben 20 jaar lang verloren.
+
+127
+00:09:17,840 --> 00:09:23,480
+Ze wonnen nu doordat de omgeving
+veranderde en verkuttificeerbaar werd.
+
+128
+00:09:23,600 --> 00:09:26,600
+Nu worden mensen beloond
+als ze slechte dingen doen.
+
+129
+00:09:37,320 --> 00:09:42,840
+We zien verkuttificatie opkomen
+in elke sector die digitaal wordt.
+
+130
+00:09:42,960 --> 00:09:47,400
+Als er computers bij komen,
+komt er verkuttificatie bij.
+
+131
+00:09:47,520 --> 00:09:52,320
+Wat gebeurt er met een bedrijf
+als het verkuttificeert?
+
+132
+00:09:52,440 --> 00:09:56,920
+Ik noem dat prutsen. Dat is dat je
+aan de zakelijke logica prutst.
+
+133
+00:09:57,040 --> 00:10:01,760
+Onzichtbaar, elke keer als
+een gebruiker een dienst gebruikt...
+
+134
+00:10:01,880 --> 00:10:04,800
+...volgens een of ander algoritme.
+
+135
+00:10:04,920 --> 00:10:09,160
+Dus prijzen, kosten,
+zoekvolgorde, aanbevelingen...
+
+136
+00:10:09,280 --> 00:10:12,200
+...dat alles verandert bij elk gebruik.
+
+137
+00:10:12,320 --> 00:10:18,200
+Dat zijn geen geraffineerde trucs, maar
+het gebeurt snel en onzichtbaar.
+
+138
+00:10:18,320 --> 00:10:22,040
+Neem verpleegkundigen.
+Die werken niet in tech.
+
+139
+00:10:22,160 --> 00:10:24,640
+Maar tech neemt hun vak over.
+
+140
+00:10:24,760 --> 00:10:29,120
+Drie landelijke apps hebben
+het inhuren in de zorg overgenomen.
+
+141
+00:10:29,240 --> 00:10:33,720
+Vroeger waren er talloze bedrijven
+die dat deden voor ziekenhuizen.
+
+142
+00:10:33,840 --> 00:10:36,160
+Als een verpleegkundige
+een dienst aanneemt...
+
+143
+00:10:36,280 --> 00:10:40,680
+...koopt de app zijn of haar
+kredietwaardigheid via een databroker.
+
+144
+00:10:40,800 --> 00:10:45,720
+En als de verpleegkundige
+een hoge creditcardschuld heeft...
+
+145
+00:10:45,840 --> 00:10:48,680
+...betaalt de app die persoon minder.
+
+146
+00:10:48,800 --> 00:10:54,200
+Want wie economisch wanhopig is,
+wil werken voor minder geld.
+
+147
+00:10:54,320 --> 00:11:00,480
+De drang om wanhopige arbeiders
+te misbruiken, is niet nieuw.
+
+148
+00:11:00,600 --> 00:11:04,800
+Maar zelfs de meest doortrapte
+steenkoolbaron uit de 19de eeuw...
+
+149
+00:11:04,920 --> 00:11:09,080
+...kon niet genoeg mannetjes
+achter bureautjes inhuren...
+
+150
+00:11:09,200 --> 00:11:12,960
+...om alle lonen 100 keer per minuut
+aan te passen.
+
+151
+00:11:13,080 --> 00:11:17,640
+Als je computers toevoegt aan
+een sector die geconcentreerd is...
+
+152
+00:11:17,760 --> 00:11:24,800
+...en niet bang is voor toezichthouders,
+druk van arbeiders of concurrentie.
+
+153
+00:11:24,920 --> 00:11:29,040
+In die omgeving,
+die verkuttificeerbare omgeving...
+
+154
+00:11:29,160 --> 00:11:32,000
+...zie je dat zodra technologie
+een sector binnendringt...
+
+155
+00:11:32,120 --> 00:11:35,280
+...de sector meteen verkuttificeert.
+
+156
+00:11:39,720 --> 00:11:43,600
+De reden dat het internet achteruit ging...
+
+157
+00:11:43,720 --> 00:11:46,600
+...is dat de concurrentiewetgeving
+verzwakte.
+
+158
+00:11:46,720 --> 00:11:51,160
+Eind jaren 90
+heeft het Ministerie van Justitie...
+
+159
+00:11:51,280 --> 00:11:56,560
+...Microsoft met succes aangepakt,
+onder Bill Clinton.
+
+160
+00:11:56,680 --> 00:11:59,600
+Microsoft ging in beroep
+en ging tijd rekken.
+
+161
+00:11:59,720 --> 00:12:03,040
+Toen kwam George W. Bush
+en die liet de zaak vallen.
+
+162
+00:12:03,160 --> 00:12:07,120
+Toch had het een heilzaam effect
+op Microsoft.
+
+163
+00:12:07,240 --> 00:12:10,560
+Misschien wel
+de allereerste viral video...
+
+164
+00:12:10,680 --> 00:12:14,520
+...was een handgekopieerde VCR-band
+die werd doorgegeven...
+
+165
+00:12:14,640 --> 00:12:16,520
+...van Bill Gates in de getuigenbank.
+
+166
+00:12:16,640 --> 00:12:21,680
+Je zag hem razend worden.
+Je kunt de beelden op YouTube vinden.
+
+167
+00:12:21,800 --> 00:12:29,000
+Moet ik 'proprietary API' uitleggen?
+- Nee, dat vroeg ik niet.
+
+168
+00:12:29,120 --> 00:12:34,240
+Hij werd totaal vernederd.
+En Microsofties vertelden later...
+
+169
+00:12:34,360 --> 00:12:38,400
+...dat als Microsoft in latere jaren
+iets ergs overwoog...
+
+170
+00:12:38,520 --> 00:12:43,080
+...zoals Google behandelen als Netscape,
+waar ze voor waren vervolgd...
+
+171
+00:12:43,200 --> 00:12:47,880
+...dat men dan zei: Nee joh,
+dan moet Bill weer getuigen.
+
+172
+00:12:59,080 --> 00:13:06,600
+De technologie was voor hen vaak
+een bron van vrijheid en vreugde.
+
+173
+00:13:06,720 --> 00:13:10,520
+Ze waren heel schaars.
+
+174
+00:13:10,640 --> 00:13:13,440
+En ze zijn ongelooflijk productief.
+
+175
+00:13:13,560 --> 00:13:18,560
+Statistisch haalt een tech-werker
+jaarlijks ruim een miljoen dollar binnen...
+
+176
+00:13:18,680 --> 00:13:23,880
+...voor zijn baas. Dus elke werkkracht
+is een miljoen meer voor de baas.
+
+177
+00:13:24,000 --> 00:13:27,160
+Dus de werkgevers
+hebben ze hard nodig.
+
+178
+00:13:27,280 --> 00:13:31,080
+Ze moeten ze zo gek krijgen
+dat ze extreem lange uren draaien.
+
+179
+00:13:31,200 --> 00:13:35,400
+Want ze zijn dan wel productief,
+maar het zijn er te weinig.
+
+180
+00:13:35,520 --> 00:13:39,360
+Je kunt er niet zomaar
+zoveel inhuren als je wilt.
+
+181
+00:13:39,480 --> 00:13:43,600
+Dus ze krijgen allerlei
+geweldige extra's aangeboden.
+
+182
+00:13:43,720 --> 00:13:47,360
+Een grappig kantoor
+met gratis stomerij en crèche.
+
+183
+00:13:47,480 --> 00:13:52,200
+Een dokter die je eitjes invriest zodat
+je kunt werken in je vruchtbare jaren.
+
+184
+00:13:52,320 --> 00:13:55,280
+Dat werkt heel goed.
+Je hebt werknemers...
+
+185
+00:13:55,400 --> 00:13:59,960
+...die ook elders aan de slag kunnen
+voor hetzelfde geld of meer.
+
+186
+00:14:00,080 --> 00:14:03,200
+Die blijven, ze missen zelfs
+hun moeders begrafenis...
+
+187
+00:14:03,320 --> 00:14:07,240
+...om de deadline van hun baas
+te halen. Omdat ze er echt in geloven.
+
+188
+00:14:07,360 --> 00:14:11,280
+Als hun baas dan wil
+dat ze hun werk verkuttificeren...
+
+189
+00:14:11,400 --> 00:14:14,080
+...voelt dat als diep moreel onrecht.
+
+190
+00:14:14,200 --> 00:14:18,920
+Je hebt je moeders uitvaart niet gemist
+om advertenties aan Maps toe te voegen.
+
+191
+00:14:19,040 --> 00:14:22,640
+En omdat ze niet zomaar
+te vervangen zijn...
+
+192
+00:14:22,760 --> 00:14:25,000
+...en omdat ze
+naar een andere baas kunnen...
+
+193
+00:14:25,120 --> 00:14:27,160
+...zeggen ze 'rot op' tegen hun baas.
+
+194
+00:14:27,280 --> 00:14:29,800
+En hun baas moet dat
+dan maar slikken.
+
+195
+00:14:29,920 --> 00:14:36,560
+Zo stonden ze pal tegen verkuttificatie.
+Maar toen zij alle macht hadden...
+
+196
+00:14:36,680 --> 00:14:40,640
+...dachten ze, paradoxaal genoeg,
+dat ze geen vakbond nodig hadden.
+
+197
+00:14:40,760 --> 00:14:45,600
+Dat hoeft toch niet als je sterk bent?
+Maar dat is juist hét moment.
+
+198
+00:14:45,720 --> 00:14:49,000
+Het is veel lastiger als je zwak staat.
+
+199
+00:14:49,120 --> 00:14:54,640
+Maar volgens hun bazen waren ze
+oprichters en niet zomaar werknemers.
+
+200
+00:14:54,760 --> 00:14:59,640
+Dus vakbondslidmaatschap is ongeveer
+nihil in de technische sector.
+
+201
+00:14:59,760 --> 00:15:02,520
+En het aanbod haalde de vraag in.
+
+202
+00:15:02,640 --> 00:15:07,720
+Techbazen maakten dat erger
+met allerlei fantasieverhalen...
+
+203
+00:15:07,840 --> 00:15:09,720
+...over AI-programmeurs.
+
+204
+00:15:09,840 --> 00:15:13,840
+Als je een goede programmeur bent,
+kun je de basis aan AI overlaten.
+
+205
+00:15:13,960 --> 00:15:17,000
+Je wordt productiever,
+maar ze kunnen je niet vervangen.
+
+206
+00:15:17,120 --> 00:15:19,120
+En beginnende programmeurs zeker niet.
+
+207
+00:15:19,240 --> 00:15:22,800
+Want een senior-programmeur moet
+dan alles checken en die zijn zeldzaam.
+
+208
+00:15:22,920 --> 00:15:26,240
+Maar zo worden programmeurs
+wel doodsbang gemaakt.
+
+209
+00:15:26,360 --> 00:15:28,800
+En dan zeggen ze niet: rot op.
+
+210
+00:15:31,520 --> 00:15:33,240
+Daar balen mensen van.
+
+211
+00:15:33,360 --> 00:15:37,800
+Dit is wat het is
+als bedrijven te groot zijn.
+
+212
+00:15:37,920 --> 00:15:45,000
+De actrice Lili Tomlin deed
+in Saturday Night Live in een sketch...
+
+213
+00:15:45,120 --> 00:15:47,320
+...een telefoniste van AT&T na.
+
+214
+00:15:47,440 --> 00:15:49,200
+Een hele goede morgen.
+
+215
+00:15:49,320 --> 00:15:53,040
+Hier handelen we
+84 miljard telefoontjes per jaar af.
+
+216
+00:15:53,160 --> 00:15:57,480
+Van presidenten en koningen
+tot het schuim der aarde.
+
+217
+00:15:57,600 --> 00:16:01,840
+Soms kunt u geen telefoniste bereiken...
+
+218
+00:16:01,960 --> 00:16:07,000
+...of uw telefoon is opeens defect.
+Misschien klopte uw rekening niet.
+
+219
+00:16:07,120 --> 00:16:09,200
+Daar hoeven we ons
+niks van aan te trekken.
+
+220
+00:16:09,320 --> 00:16:11,240
+Wij zijn het telefoonbedrijf.
+
+221
+00:16:11,360 --> 00:16:13,440
+Als je moet kiezen...
+
+222
+00:16:13,560 --> 00:16:18,120
+...tussen het permanente misbruik
+van Facebook...
+
+223
+00:16:18,240 --> 00:16:21,720
+...en het contact kwijtraken
+met je omgeving via Facebook...
+
+224
+00:16:21,840 --> 00:16:26,360
+...kiezen de meeste mensen
+uiteindelijk voor Facebook.
+
+225
+00:16:26,480 --> 00:16:31,840
+Het ergste is dat
+hoe kwetsbaarder je bent...
+
+226
+00:16:31,960 --> 00:16:34,680
+...hoe moeilijker het is om te stoppen.
+
+227
+00:16:34,800 --> 00:16:38,200
+De tech-bazen weten heel goed...
+
+228
+00:16:38,320 --> 00:16:41,560
+...hoe ze de switch-kosten
+moeten verhogen...
+
+229
+00:16:41,680 --> 00:16:43,680
+...dus dat wat je moet opgeven
+om bij hen weg te gaan.
+
+230
+00:16:43,800 --> 00:16:49,440
+Toen de overheid voor het eerst
+een zaak aanbracht tegen Facebook...
+
+231
+00:16:49,560 --> 00:16:53,960
+...hadden ze interne memo's
+van de start van Facebook Photos.
+
+232
+00:16:54,080 --> 00:16:58,160
+De baas van die afdeling
+mailt Mark Zuckerberg:
+
+233
+00:16:58,280 --> 00:17:02,080
+We maken dit onderdeel
+zo goed als we kunnen.
+
+234
+00:17:02,200 --> 00:17:04,960
+Mensen moeten hun familiefoto's
+erop zetten.
+
+235
+00:17:05,080 --> 00:17:10,280
+Als ze dan naar Google Plus gaan,
+raken ze die foto's kwijt.
+
+236
+00:17:10,400 --> 00:17:16,160
+Door de switch-kosten te verhogen,
+konden ze gebruikers vasthouden.
+
+237
+00:17:16,280 --> 00:17:20,000
+Hij zei niet:
+We gaan het beter doen dan Google.
+
+238
+00:17:20,120 --> 00:17:23,760
+Maar: We zorgen dat de pijn
+om bij ons weg te gaan groter is...
+
+239
+00:17:23,880 --> 00:17:26,600
+...dan de lol die je hebt van Google Plus.
+
+240
+00:17:26,720 --> 00:17:30,400
+Ze zijn niet meer bang
+hun klanten te verliezen.
+
+241
+00:17:30,520 --> 00:17:35,200
+In de tech-branche
+zijn er zeer machtige middelen...
+
+242
+00:17:35,320 --> 00:17:39,240
+...om bedrijven te dwingen
+zoals met integreerbaarheid.
+
+243
+00:17:39,360 --> 00:17:41,480
+De enige computer die we kennen...
+
+244
+00:17:41,600 --> 00:17:45,360
+...die in die camera zit,
+en die in die laptop zit...
+
+245
+00:17:45,480 --> 00:17:48,800
+...in het afleidingsschermpje in mijn zak
+en in de thermostaat...
+
+246
+00:17:48,920 --> 00:17:50,840
+Ze zijn allemaal hetzelfde.
+
+247
+00:17:50,960 --> 00:17:54,120
+Allemaal 'Turing complete universal
+Von Neumann machines'.
+
+248
+00:17:54,240 --> 00:17:58,040
+Jargon dat betekent dat elke computer
+elk programma kan draaien.
+
+249
+00:17:58,160 --> 00:18:01,640
+Heb je een printer van HP,
+dan zit daar een programma in...
+
+250
+00:18:01,760 --> 00:18:05,600
+...dat checkt
+of je wel inkt van HP gebruikt.
+
+251
+00:18:05,720 --> 00:18:08,200
+Een ander programma
+kan dat uitschakelen.
+
+252
+00:18:08,320 --> 00:18:13,880
+Maar we hebben een aantal IP-wetten
+aangenomen...
+
+253
+00:18:14,000 --> 00:18:18,040
+...die het verbieden
+om dat soort programma's te maken.
+
+254
+00:18:18,160 --> 00:18:22,640
+Die wet is aangenomen omdat de VS...
+
+255
+00:18:22,760 --> 00:18:28,320
+...de EU dreigde met importheffingen
+als ze die niet aannamen.
+
+256
+00:18:28,440 --> 00:18:33,040
+Al die afspraken zijn vastgelegd
+onder bedreiging van importheffingen.
+
+257
+00:18:33,160 --> 00:18:36,920
+Ze eisen dat landen die meedoen...
+
+258
+00:18:37,040 --> 00:18:42,440
+...wetten aannemen die het maken
+van dat soort programma's verbieden.
+
+259
+00:18:42,560 --> 00:18:46,560
+Het is dus technisch mogelijk...
+
+260
+00:18:46,680 --> 00:18:49,800
+...als je genoeg hebt
+van de dure HP-inkt...
+
+261
+00:18:49,920 --> 00:18:55,080
+...en inkt gebruikt van Belgische monniken
+die geen bier meer maken...
+
+262
+00:18:55,200 --> 00:18:57,480
+...wat ik niet verzonnen heb...
+
+263
+00:18:57,600 --> 00:19:03,240
+Maar je mag dat programma niet meer
+gebruiken dat die inktcontrole uitschakelt.
+
+264
+00:19:03,360 --> 00:19:07,680
+Ook al is de printer van jou en valt inkt
+niet onder het auteursrecht.
+
+265
+00:19:07,800 --> 00:19:11,680
+Die controleprogramma's zijn beschermd.
+
+266
+00:19:11,800 --> 00:19:15,480
+Dan heeft het bedrijf jou
+waar het je hebben wil.
+
+267
+00:19:15,600 --> 00:19:19,400
+Je kunt niet op een deel
+van de aanbieding ingaan.
+
+268
+00:19:19,520 --> 00:19:22,760
+De prijs van inkt wordt almaar hoger.
+
+269
+00:19:22,880 --> 00:19:25,960
+Het is nu 10.000 dollar voor bijna 4 liter.
+
+270
+00:19:26,080 --> 00:19:30,400
+De duurste vloeistof die je als burger
+zonder vergunning mag kopen.
+
+271
+00:19:30,520 --> 00:19:33,280
+Je print boodschappenlijstjes
+met gekleurd water...
+
+272
+00:19:33,400 --> 00:19:36,480
+...dat duurder is dan het sperma
+van het beste renpaard.
+
+273
+00:19:39,840 --> 00:19:42,720
+Technologie die dat in toom houdt
+zie je niet meer.
+
+274
+00:19:46,880 --> 00:19:50,240
+Beleid loopt de hele tijd stuk
+op al die monopolies.
+
+275
+00:19:50,360 --> 00:19:54,080
+Dat falende beleid zorgt
+voor een coalitie...
+
+276
+00:19:54,200 --> 00:19:58,840
+...en dat hebben wetgevers
+overal inmiddels gemerkt.
+
+277
+00:19:58,960 --> 00:20:04,680
+Er is een Frans-Italiaans consortium,
+Luxottica...
+
+278
+00:20:04,800 --> 00:20:09,960
+...dat vrijwel alle soorten brilmonturen
+maakt.
+
+279
+00:20:10,080 --> 00:20:14,160
+Dolce&Gabana, Coach, Oakley...
+Ze bezitten alles.
+
+280
+00:20:14,280 --> 00:20:18,800
+Ze bezitten ook alle grote opticien-ketens.
+
+281
+00:20:18,920 --> 00:20:21,440
+Ze maken meer dan 50%
+van alle lenzen.
+
+282
+00:20:21,560 --> 00:20:24,560
+Ze bezitten de grootste verzekeraar,
+EyeMed.
+
+283
+00:20:24,680 --> 00:20:28,480
+Ze hebben de prijs van brillen
+met 1000% verhoogd.
+
+284
+00:20:28,600 --> 00:20:31,560
+Wij hebben allebei een bril.
+
+285
+00:20:31,680 --> 00:20:35,840
+Wij zijn bondgenoten,
+ook al kan big tech ons niks schelen.
+
+286
+00:20:35,960 --> 00:20:39,000
+We zijn bondgenoten tegen monopolies.
+
+287
+00:20:39,120 --> 00:20:41,640
+Daar ontstaat een coalitie.
+
+288
+00:20:41,760 --> 00:20:45,000
+Zo begint een nieuwe beweging.
+
+289
+00:20:45,120 --> 00:20:48,520
+Dat is zo
+omdat het een nieuwe coalitie is.
+
+290
+00:20:48,640 --> 00:20:51,480
+Want anti-trust
+gaat niet alleen over tech.
+
+291
+00:20:53,720 --> 00:20:58,080
+In dit decennium hebben we
+een ongekende groei meegemaakt...
+
+292
+00:20:58,200 --> 00:21:01,680
+...van anti-monopoliewetten
+in de hele wereld.
+
+293
+00:21:01,800 --> 00:21:04,360
+In Europese landen,
+Duitsland, Frankrijk en Spanje...
+
+294
+00:21:04,480 --> 00:21:08,640
+...maar ook overkoepelend in de EU
+met de digitalemarktenverordening.
+
+295
+00:21:08,760 --> 00:21:13,640
+Dit kan een wereldwijde beweging worden
+tegen ongelimiteerde bedrijfsmacht...
+
+296
+00:21:13,760 --> 00:21:17,080
+...waar big tech een deel van is.
+
+297
+00:21:17,200 --> 00:21:20,200
+Dan kan er een eind komen
+aan de 'verkuttificatie'.
