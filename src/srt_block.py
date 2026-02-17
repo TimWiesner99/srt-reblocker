@@ -1,12 +1,11 @@
 """SRT block class to represent one 'block' in an srt file."""
 
 from dataclasses import dataclass
-from timecode import timecode
+from src.timecode import DecimalTimecode
 
 @dataclass
-class Srt_block:
+class SrtBlock:
     index: int
-    begin: timecode
-    end: timecode
+    begin: DecimalTimecode
+    end: DecimalTimecode
     text: str
-

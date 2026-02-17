@@ -1,5 +1,9 @@
-from src.srt_block import Srt_block
-from src.timecode import Timecode
+from src.srt_block import SrtBlock
+from src.timecode import DecimalTimecode
+
+# Default alias for this SRT-focused project
+Timecode = DecimalTimecode
+
 
 def main():
     try:
