@@ -220,10 +220,10 @@ class DecimalTimecode(TimecodeBase):
     The timecode format is HH:MM:SS,mmm as used in SRT subtitle files.
     """
 
-    hours: int
-    minutes: int
-    seconds: int
-    milliseconds: int
+    hours: int = 0
+    minutes: int = 0
+    seconds: int = 0
+    milliseconds: int = 0
 
     TIMECODE_PATTERN = re.compile(r'^(\d{2}):(\d{2}):(\d{2}),(\d{3})$')
 
