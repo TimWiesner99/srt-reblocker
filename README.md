@@ -16,13 +16,13 @@ python main.py <srt_file> <block_length> [output_path]
 |---|---|---|
 | `srt_file` | Yes | Path to the input SRT file |
 | `block_length` | Yes | Desired block length in minutes |
-| `output_path` | No | Output directory (default: `./output/`) |
+| `output_path` | No | Output directory (default: same as input file) |
 
 The output file is written to `<output_path>/<original_filename>_reblocker.srt`.
 
 ### Examples
 
-Combine blocks into roughly 5-minute segments, output to the default `./output/` directory:
+Combine blocks into roughly 5-minute segments, output next to the input file:
 
 ```
 python main.py subtitles.srt 5

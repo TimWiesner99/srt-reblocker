@@ -11,13 +11,11 @@ TIMECODE_LINE_PATTERN = re.compile(
     r'^(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})$'
 )
 
-OUTPUT_PATH = "./output/"
-
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Combine SRT subtitle blocks into larger blocks.")
     parser.add_argument("srt_file", help="Path to the SRT file")
     parser.add_argument("block_length", type=int, help="Desired block length in seconds")
-    parser.add_argument("output_path", nargs="?", default=OUTPUT_PATH, help="Path of output srt file (default: ./output/)")
+    parser.add_argument("output_path", nargs="?", default=None, help="Output directory (default: same directory as input file)")
     return parser.parse_args()
 
 
@@ -119,9 +117,9 @@ def main():
             block.index = i
 
         # output new_blocks to new srt file
-        output_dir = args.output_path
+        output_dir = args.output_path or os.path.dirname(os.path.abspath(args.srt_file))
         source_name = os.path.splitext(os.path.basename(args.srt_file))[0]
-        output_file = os.path.join(output_dir, f"{source_name}_reblocker.srt")
+        output_file = os.path.join(output_dir, f"{source_name}_reblocked_{args.block_length}min.srt")
         write_srt(new_blocks, output_file)
         print(f"Written output to '{output_file}'")
 
