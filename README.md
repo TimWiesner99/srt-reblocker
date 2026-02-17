@@ -18,7 +18,7 @@ python main.py <srt_file> <block_length> [output_path]
 | `block_length` | Yes | Desired block length in minutes |
 | `output_path` | No | Output directory (default: same as input file) |
 
-The output file is written to `<output_path>/<original_filename>_reblocker.srt`.
+The output file is written to `<output_path>/<original_filename>_reblocked_<block_length>min.srt`.
 
 ### Examples
 
